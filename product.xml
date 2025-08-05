@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+  <product>
+    <id>1</id>
+    <name>เก้าอี้</name>
+    <description>ใช้นั่งได้</description>
+    <price>129</price>
+    <quantity>10</quantity>
+  </product>
+  <product>
+    <id>2</id>
+    <name>โต๊ะ</name>
+    <description>ใช้วางสิ่งของ</description>
+    <price>240</price>
+    <quantity>5</quantity>
+  </product>
+  <product>
+    <id>3</id>
+    <name>ผ้าปูโต๊ะ</name>
+    <description>ใช้คลุมโต๊ะ</description>
+    <price>49</price>
+    <quantity>10</quantity>
+  </product>
+  <product>
+    <id>4</id>
+    <name>เชิงเทียน</name>
+    <description>ให้ความสว่าง</description>
+    <price>20</price>
+    <quantity>30</quantity>
+  </product>
+  <product>
+    <id>5</id>
+    <name>ชุดจานชาม</name>
+    <description>ใช้ใส่อาหาร</description>
+    <price>99</price>
+    <quantity>5</quantity>
+  </product>
+</products>

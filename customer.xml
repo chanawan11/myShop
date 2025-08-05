@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<customers>
+  <customer>
+    <firstname>เอ</firstname>
+    <lastname>กอไก่</lastname>
+    <gender>ชาย</gender>
+    <phone>123-456</phone>
+    <memberid>919</memberid>
+  </customer>
+  <customer>
+    <firstname>บี</firstname>
+    <lastname>ขอไข่</lastname>
+    <gender>ชาย</gender>
+    <phone>654-321</phone>
+    <memberid>938</memberid>
+  </customer>
+  <customer>
+    <firstname>ซี</firstname>
+    <lastname>ฃอฃวด</lastname>
+    <gender>หญิง</gender>
+    <phone>213-546</phone>
+    <memberid>946</memberid>
+  </customer>
+  <customer>
+    <firstname>ดี</firstname>
+    <lastname>คอควาย</lastname>
+    <gender>ชาย</gender>
+    <phone>312-645</phone>
+    <memberid>973</memberid>
+  </customer>
+  <customer>
+    <firstname>อี</firstname>
+    <lastname>ฅอฅน</lastname>
+    <gender>ชาย</gender>
+    <phone>1000</phone>
+    <memberid>982</memberid>
+  </customer>
+</customers>

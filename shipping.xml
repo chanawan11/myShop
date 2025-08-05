@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shippings>
+  <shipping>
+    <shipid>G0/0J</shipid>
+    <type>ด่วน</type>
+    <company>ExpreXX</company>
+    <sender>นายไก่แจ้</sender>
+    <province>กรุงเทพมหานคร</province>
+  </shipping>
+  <shipping>
+    <shipid>G0/1J</shipid>
+    <type>ปกติ</type>
+    <company>FlaXX</company>
+    <sender>นายเกลิ</sender>
+    <province>แพร่</province>
+  </shipping>
+  <shipping>
+    <shipid>G0/2J</shipid>
+    <type>ปกติ</type>
+    <company>FlaXX</company>
+    <sender>นางมนโม</sender>
+    <province>กรุงเทพมหานคร</province>
+  </shipping>
+  <shipping>
+    <shipid>G0/3J</shipid>
+    <type>ปกติ</type>
+    <company>PXX</company>
+    <sender>นายน้อยราชา</sender>
+    <province>กรุงเทพมหานคร</province>
+  </shipping>
+  <shipping>
+    <shipid>G4/4J</shipid>
+    <type>ด่วนที่สุด</type>
+    <company>ExpreXX</company>
+    <sender>นายสาวออย</sender>
+    <province>ตราด</province>
+  </shipping>
+</shippings>

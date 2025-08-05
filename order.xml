@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<orders>
+  <order>
+    <orderid>E3001</orderid>
+    <details>เก้าอี้ 2, โต๊ะ 1</details>
+    <total>498</total>
+    <paid>500</paid>
+    <change>2</change>
+  </order>
+  <order>
+    <orderid>E3002</orderid>
+    <details>เชิงเทียน 28</details>
+    <total>560</total>
+    <paid>1000</paid>
+    <change>440</change>
+  </order>
+  <order>
+    <orderid>E3003</orderid>
+    <details>เก้าอี้ 1, ผ้าปูโต๊ะ 3</details>
+    <total>276</total>
+    <paid>276</paid>
+    <change>0</change>
+  </order>
+  <order>
+    <orderid>E3004</orderid>
+    <details>ชุดจานชาม 1</details>
+    <total>99</total>
+    <paid>100</paid>
+    <change>1</change>
+  </order>
+  <order>
+    <orderid>E3005</orderid>
+    <details>เก้าอี้ 1, โต๊ะ 1, ผ้าปูโต๊ะ 1, เชิงเทียน 1, ชุดจานชาม 1</details>
+    <total>537</total>
+    <paid>1000</paid>
+    <change>463</change>
+  </order>
+</orders>
